@@ -1,0 +1,20 @@
+body {
+    background-color: #566f7c;
+    /* color: #f7f7f7; */
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(50, 16, 162);     
+}
+
+.jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.styletext {
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(50, 16, 162); 
+}
+
+
+
